@@ -1,8 +1,5 @@
 <template>
     <div>
-        <svg viewBox="-50 -50 100 100">
-            <circle cx="0" cy="0" radius="20" />
-        </svg>
         <SandCircle />
         <SandCircle />
         <SandCircle />
